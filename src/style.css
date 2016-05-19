@@ -1,0 +1,16 @@
+body {
+  margin: auto;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.toolbar{
+  width: 50%;
+  margin: auto;
+}
+
+.footer {
+  margin:auto;
+  margin-top: 20px;
+  width:50%;
+}
